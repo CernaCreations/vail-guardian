@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vail-guardian/static/css/main.1458bd9b.css",
-    "main.js": "/vail-guardian/static/js/main.67276a2b.js",
+    "main.js": "/vail-guardian/static/js/main.19b4f031.js",
     "static/js/453.c1db64c3.chunk.js": "/vail-guardian/static/js/453.c1db64c3.chunk.js",
     "index.html": "/vail-guardian/index.html",
     "main.1458bd9b.css.map": "/vail-guardian/static/css/main.1458bd9b.css.map",
-    "main.67276a2b.js.map": "/vail-guardian/static/js/main.67276a2b.js.map",
+    "main.19b4f031.js.map": "/vail-guardian/static/js/main.19b4f031.js.map",
     "453.c1db64c3.chunk.js.map": "/vail-guardian/static/js/453.c1db64c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1458bd9b.css",
-    "static/js/main.67276a2b.js"
+    "static/js/main.19b4f031.js"
   ]
 }
