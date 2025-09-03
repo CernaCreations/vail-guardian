@@ -5,7 +5,7 @@ const AnalysisView = () => (
   <div className="space-y-6">
     <div className="bg-white rounded-lg shadow border">
       <div className="px-6 py-4 border-b border-gray-200">
-        <h3 className="text-lg font-semibold text-gray-900">Evidence Analysis</h3>
+        <h3 className="text-lg font-semibold text-gray-900">Evidence Activity</h3>
       </div>
       <div className="p-6">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -15,7 +15,7 @@ const AnalysisView = () => (
               <input type="text" placeholder="Search across all evidence..." className="flex-1 px-3 py-2 border border-gray-300 rounded-md" />
             </div>
             <div className="bg-gray-50 p-4 rounded-lg">
-              <h4 className="font-medium text-gray-900 mb-2">Quick Analysis</h4>
+              <h4 className="font-medium text-gray-900 mb-2">Activity Count</h4>
               <div className="space-y-2">
                 <div className="flex justify-between text-sm">
                   <span>Total Files:</span>
@@ -37,7 +37,7 @@ const AnalysisView = () => (
             </div>
           </div>
           <div className="space-y-4">
-            <h4 className="font-medium text-gray-900">Timeline View</h4>
+            <h4 className="font-medium text-gray-900">Activity Timeline</h4>
             <div className="space-y-3">
               {/* Timeline events for demo */}
               <div className="flex items-center space-x-3 p-3 bg-blue-50 rounded-lg">
